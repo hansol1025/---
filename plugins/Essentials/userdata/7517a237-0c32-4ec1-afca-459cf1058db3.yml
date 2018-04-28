@@ -1,0 +1,23 @@
+lastlocation:
+  world: world
+  x: 58.5
+  y: 66.0
+  z: 30.5
+  yaw: 0.0
+  pitch: 0.0
+timestamps:
+  lastteleport: 1524750992240
+  logout: 1524868614444
+  login: 1524875199768
+  kits:
+    tools: 1524751615903
+logoutlocation:
+  world: world
+  x: 353.25052346528577
+  y: 105.29727248846531
+  z: 54.155892282764846
+  yaw: 355.78864
+  pitch: 40.89682
+lastAccountName: Seayoan1025
+ipAddress: 192.168.219.101
+afk: false
